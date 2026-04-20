@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Home from '../../pages/home/Home'
-import Doacoes from '../../pages/doacoes/doacoes'
+import Doacoes from '../../pages/doacoes/Doacoes'
 import Estoque from '../../pages/estoque/Estoque'
 
 import styles from './Navbar.module.css'
