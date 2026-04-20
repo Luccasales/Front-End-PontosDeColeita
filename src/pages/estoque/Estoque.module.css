@@ -1,0 +1,8 @@
+.content{
+    background-image: url('../../assets/Estoque.jpg');
+    height: 100vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+
+}

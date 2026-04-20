@@ -1,0 +1,34 @@
+.container{
+    height: 98vh;
+    width: 100%;
+    color: black;
+    background-image: url('../../assets/PodemosAjudar.jpg');
+    background-size: contain;
+    background-position: center;
+    
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px red solid;
+    height: 100%;
+}
+
+p, h1{
+    background-color: aliceblue;
+    font-size: 2em;
+}
+
+.link a{
+    cursor: pointer;
+    color: aqua;
+    transition: 0.4s;
+    text-decoration: none;
+}
+
+.link a:hover{
+    color: blue;
+}

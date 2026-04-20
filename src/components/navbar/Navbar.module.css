@@ -1,0 +1,23 @@
+.navbar {
+    background-color: green;
+    min-height: 5vh;
+    color: white;
+}
+
+.lista {
+    display: flex;
+    height: 5vh;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+}
+
+.linkNav {
+    text-decoration: none;
+    color: white; 
+}
+
+.linkNav:hover {
+    color: lightgray;
+}
