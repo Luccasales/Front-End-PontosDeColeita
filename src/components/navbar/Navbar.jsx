@@ -6,7 +6,7 @@ import Estoque from '../../pages/estoque/Estoque'
 
 import styles from './Navbar.module.css'
 
-const Narvbar = () => {
+const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <ul className={styles.lista}>
@@ -24,4 +24,4 @@ const Narvbar = () => {
   )
 }
 
-export default Narvbar
+export default Navbar
