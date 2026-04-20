@@ -6,7 +6,7 @@ import  './App.css'
 //pages
 import Home from './pages/home/Home'
 import Estoque from './pages/estoque/Estoque'
-import Doacoes from './pages/doacoes/doacoes'
+import Doacoes from './pages/doacoes/Doacoes'
 
 
 const App = () => {
